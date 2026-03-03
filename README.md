@@ -6,6 +6,8 @@ Projeto em automato usa valores de uma planilha ppara preencher um sistema de es
 -Pandas
 -PyAutoGui
 -Time
+
 #funções:
 -Automatizar qualquer tarefas.
+-encontra posições de itens em qualquer computador
 

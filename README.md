@@ -1,2 +1,11 @@
 # Projeto-automato-em-python
-Projeto em automato de preenxer valores de uma tabela e preencher um estoque de um sistema usando bibliotecas de python com Pandas e PyAutoGui 
+Projeto em automato usa valores de uma planilha ppara preencher um sistema de estoque, atraves de python com bibliotecas usando PyAutoGui, Pandas, time. 
+
+#Tecnoligas usadas:
+-Python
+-Pandas
+-PyAutoGui
+-Time
+#funções:
+-Automatizar qualquer tarefas.
+
